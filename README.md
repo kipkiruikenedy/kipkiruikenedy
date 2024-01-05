@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kenedy Kipkirui
+# Hi there! 👋 I'm Oltitia Kenedy Kipkirui
 
 🚀 **What I do?**
 - Software Engineer 💻

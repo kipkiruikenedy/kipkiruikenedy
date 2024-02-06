@@ -3,7 +3,7 @@
 🚀 **What I do?**
 - Software Engineer 💻
 - Full Stack Developer 🌐
-- Currently working at Globetech 🌍
+- Currently working as Freelance Developer 🌍
 
 ## 🌟 My Expertise:
 - PHP, Laravel, CodeIgniter
@@ -13,15 +13,11 @@
 - Tailwind CSS, Bootstrap
 
 ## 💼 Current Role:
-- Full Stack Developer at Globetech (since Dec 2023)
+- Full Stack Developer at Freelancing
   - Leading the development of the Biblia Sacco web-based system.
   - Utilizing Laravel 10, Vue 3, Tailwind CSS, JavaScript, and MySQL.
 
 ## 🛠️ Previous Engagements:
-- Full Stack Developer at Cytek Solar Limited (Aug 2023 – Dec 2023)
-  - Specialized in building and optimizing IoT system utilities.
-  - Used Vue.js, Tailwind CSS, Java, Spring Boot, and MySQL.
-
 - Full Stack Developer at Vengi Sacco (Jan 2022 - Dec 2022)
   - Led a team in developing a revolutionary web-based SACCO system.
   - Leveraged Laravel, blades, MySQL, AJAX, and JavaScript.

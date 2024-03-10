@@ -23,7 +23,8 @@
   - Leveraged Laravel, blades, MySQL, AJAX, and JavaScript.
 
 ## 🎓 Education:
-- Bachelor's degree in Computer Science from Machakos University (Sep 2017 - Dec 2022)
+- MCA  Computer Science, Jain University (Sep 2023 - present)
+- BSc Computer Science , Machakos University (Sep 2017 - Dec 2022)
 
 ## 🌐 Connect with Me:
 - LinkedIn: [linkedin.com/in/kenedyk24](https://linkedin.com/in/kenedyk24)
